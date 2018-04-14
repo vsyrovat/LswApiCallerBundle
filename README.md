@@ -3,7 +3,7 @@ LswApiCallerBundle
 
 ![screenshot](http://www.leaseweblabs.com/wp-content/uploads/2013/01/api_caller.png)
 
-The LswApiCallerBundle adds a CURL API caller to your Symfony2 application.
+The LswApiCallerBundle adds a CURL API caller to your Symfony2/Symfony3 application.
 It is easy to use from the code and is aimed to have full debugging capabilities.
 
 [Read the LeaseWebLabs blog about LswApiCallerBundle](http://www.leaseweblabs.com/2013/01/symfony2-bundle-for-curl-api-calling/)

@@ -2,7 +2,7 @@ parameters:
     api_caller.class: Lsw\ApiCallerBundle\Caller\LoggingApiCaller
     api_call_logger.class: Lsw\ApiCallerBundle\Logger\ApiCallLogger
     api_caller.data_collector.class: Lsw\ApiCallerBundle\DataCollector\ApiCallDataCollector
-    api_caller.data_collector.template: "LswApiCallerBundle:Collector:api"
+    api_caller.data_collector.template: "@@LswApiCaller/Collector/api"
 
 services:
     api_caller:
